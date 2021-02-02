@@ -9,7 +9,7 @@ export class AllChats extends Component {
             className="card border-warning shadow-sm rounded-lg"
             style={{ backgroundColor: '#E8F5F9' }}
           >
-            <div class="media">
+            <div className="media">
               <div className="px-4 pt-2 text-center">
                 <img
                   src="https://i.pravatar.cc/150?img=60"
@@ -54,7 +54,7 @@ export class AllChats extends Component {
           <div
             style={{ position: 'absolute', right: '-10px', bottom: '-10px' }}
           >
-            <span class="badge badge-success rounded-circle p-2">4</span>
+            <span className="badge badge-success rounded-circle p-2">4</span>
           </div>
         </div>
 
@@ -63,7 +63,7 @@ export class AllChats extends Component {
             className="card shadow-sm rounded-lg"
             style={{ backgroundColor: '#F9F8F8' }}
           >
-            <div class="media">
+            <div className="media">
               <div className="px-4 pt-2 text-center">
                 <img
                   src="https://i.pravatar.cc/150?img=60"
@@ -108,7 +108,7 @@ export class AllChats extends Component {
           <div
             style={{ position: 'absolute', right: '-10px', bottom: '-10px' }}
           >
-            <span class="badge badge-success rounded-circle p-2">4</span>
+            <span className="badge badge-success rounded-circle p-2">4</span>
           </div>
         </div>
 
@@ -117,7 +117,7 @@ export class AllChats extends Component {
             className="card shadow-sm rounded-lg"
             style={{ backgroundColor: '#E8F5F9' }}
           >
-            <div class="media">
+            <div className="media">
               <div className="px-4 pt-2 text-center">
                 <img
                   src="https://i.pravatar.cc/150?img=60"
@@ -162,7 +162,7 @@ export class AllChats extends Component {
           <div
             style={{ position: 'absolute', right: '-10px', bottom: '-10px' }}
           >
-            <span class="badge badge-success rounded-circle p-2">4</span>
+            <span className="badge badge-success rounded-circle p-2">4</span>
           </div>
         </div>
 
@@ -171,7 +171,7 @@ export class AllChats extends Component {
             className="card shadow-sm rounded-lg"
             style={{ backgroundColor: '#E8F5F9' }}
           >
-            <div class="media">
+            <div className="media">
               <div className="px-4 pt-2 text-center">
                 <img
                   src="https://i.pravatar.cc/150?img=60"
@@ -216,7 +216,7 @@ export class AllChats extends Component {
           <div
             style={{ position: 'absolute', right: '-10px', bottom: '-10px' }}
           >
-            <span class="badge badge-success rounded-circle p-2">4</span>
+            <span className="badge badge-success rounded-circle p-2">4</span>
           </div>
         </div>
 
@@ -225,7 +225,7 @@ export class AllChats extends Component {
             className="card shadow-sm rounded-lg"
             style={{ backgroundColor: '#F9F8F8' }}
           >
-            <div class="media">
+            <div className="media">
               <div className="px-4 pt-2 text-center">
                 <img
                   src="https://i.pravatar.cc/150?img=60"
@@ -270,7 +270,7 @@ export class AllChats extends Component {
           <div
             style={{ position: 'absolute', right: '-10px', bottom: '-10px' }}
           >
-            <span class="badge badge-success rounded-circle p-2">4</span>
+            <span className="badge badge-success rounded-circle p-2">4</span>
           </div>
         </div>
 
@@ -279,7 +279,7 @@ export class AllChats extends Component {
             className="card shadow-sm rounded-lg"
             style={{ backgroundColor: '#E8F5F9' }}
           >
-            <div class="media">
+            <div className="media">
               <div className="px-4 pt-2 text-center">
                 <img
                   src="https://i.pravatar.cc/150?img=60"
@@ -324,7 +324,7 @@ export class AllChats extends Component {
           <div
             style={{ position: 'absolute', right: '-10px', bottom: '-10px' }}
           >
-            <span class="badge badge-success rounded-circle p-2">4</span>
+            <span className="badge badge-success rounded-circle p-2">4</span>
           </div>
         </div>
       </div>
