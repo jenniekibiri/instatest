@@ -1,0 +1,29 @@
+.navbar{
+    height: 70px;
+   
+}
+.btn {
+  border-radius:0;
+  width: 180px;
+}
+.navbar-nav {
+    justify-content: space-evenly !important;
+    flex: 70;
+}
+.col-sm-fixed {
+  flex: 0 0 8.333%;
+  max-width: 250px;
+  min-width: 100px;
+}
+
+.flex-auto {
+  flex: 1 1 50%;
+  min-width: 50%;
+}
+.sidebar{
+  background-color: blueviolet !important;
+  height: 100vh;
+}
+.dark-div{
+  height: 30px;
+}
