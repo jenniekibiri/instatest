@@ -5,7 +5,7 @@ export class Navbar extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg ml-5 mt-3">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand text-dark" href="/">
             InstaDriver
           </a>
           <button
