@@ -39,7 +39,7 @@ export class Navbar extends Component {
                   <h5>James Keem</h5>
                 </button>
                   <h5 className="pl-2">Menu</h5>
-                  <i className="fa fa-bars fa-2x pl-2 "></i>
+                  <i  type="button" className=" fa fa-bars fa-2x pl-2 "></i>
                 </div>
                 
               </li>

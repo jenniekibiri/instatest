@@ -4,7 +4,7 @@
 }
 .btn {
   border-radius:0;
-  width: 180px;
+  width: 170px;
 }
 .navbar-nav {
     justify-content: space-evenly !important;
@@ -23,13 +23,14 @@
 .sidebar{
   background-color: #914B9C !important;
   height: 100vh;
+  width: 85%;
 }
 .dark-div{
   height: 30px;
 }
 a{
   color: white;
-  font-size: 80%;
+  font-size: 100%;
 }
  div  a:hover{
   background-color: white;
@@ -40,4 +41,10 @@ a{
 }
  .sidebar-sticky  li{
   margin-top: 20px;
+}
+
+
+
+.warningbtn{
+  float:right;
 }

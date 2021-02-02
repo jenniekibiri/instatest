@@ -4,7 +4,7 @@ export class Sidebar extends Component {
     render() {
         return (
             <div>
-             <nav className="col-md-2 d-none  d-md-block  sidebar">
+             <nav className="sidebar">
           <div className="sidebar-sticky ">
             <ul className="nav flex-column  ">
               <li className="nav-item">
