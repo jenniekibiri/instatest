@@ -21,9 +21,23 @@
   min-width: 50%;
 }
 .sidebar{
-  background-color: blueviolet !important;
+  background-color: #914B9C !important;
   height: 100vh;
 }
 .dark-div{
   height: 30px;
+}
+a{
+  color: white;
+  font-size: 80%;
+}
+ div  a:hover{
+  background-color: white;
+ 
+  border-radius: 10px!important;
+  
+ color: black;
+}
+ .sidebar-sticky  li{
+  margin-top: 20px;
 }
